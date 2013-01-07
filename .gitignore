@@ -1,0 +1,7 @@
+_Resharper.geek.GameEngine
+bin
+obj
+*.suo
+*.user
+
+TestResults
